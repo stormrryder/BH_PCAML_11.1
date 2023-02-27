@@ -50,3 +50,4 @@ The used car dealership should acquire vehicles that are relatively new with low
   - Models for different locations
 2. It was noted that the dataset contains some motocycles, those should have been removed from the dataset
 3. Since the model feature is very 'dirty', we could use a proper vehicle database to extract the missing feature values instead of using the most common values for the model.
+4. Linear regression does not seem to be the ideal model for this dataset which has a lot of categories. Explore other models.
